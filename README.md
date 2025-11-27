@@ -59,7 +59,7 @@ A production-ready community platform delivered for a local client. I managed th
 * **Impact:** successfully deployed a scalable digital platform for a community organisation.
 * **Engineering:** Configured a Headless CMS (Strapi) for easy client content management and set up a CI/CD pipeline using Oracle Cloud, Nginx, and PM2.
 
-### 📱 [MyMosque Flutter App](https://github.com/your-repo-link)
+### 📱 [MyMosque Flutter App](https://github.com/YusufQuresh1/MyMosque-Flutter-App)
 **Final Year Dissertation** | *Dart, Flutter, Firebase, Google Maps API*
 > [🤖 Download APK](https://github.com/YusufQuresh1/MyMosque-Flutter-App/releases) | [💻 View Code](https://github.com/YusufQuresh1/MyMosque-Flutter-App)
 
@@ -68,7 +68,7 @@ A cross-platform mobile application designed to connect users with their local m
 * **Engineering:** Implemented complex state management and geolocation services within the Flutter ecosystem.
 * **Deployment:** Compiled and packaged functional APK for Android devices.
 
-### 🍽️ [Restaurant Booking System](https://github.com/your-repo-link)
+### 🍽️ [Restaurant Booking System](https://github.com/YusufQuresh1/Restaurant-Booking-Website)
 **Full-Stack Web App** | *PHP, MySQL, Twig, AJAX*
 > [💻 View Code](https://github.com/YusufQuresh1/Restaurant-Booking-Website)
 
@@ -76,7 +76,7 @@ A robust reservation platform featuring a customer booking portal and an admin d
 * **Features:** Handles secure bookings with real-time availability checks via AJAX.
 * **Engineering:** Built with a focus on relational database design and secure PHP backend logic.
 
-### 🎮 [Java 2D Platformer Game (Physics Engine)](https://github.com/your-repo-link)
+### 🎮 [Java 2D Platformer Game (Physics Engine)](https://github.com/YusufQuresh1/Java-2D-Platformer-Game)
 **Game Development** | *Java, JBox2D, MVC Pattern*
 > [💻 View Code](https://github.com/YusufQuresh1/Java-2D-Platformer-Game)
 
@@ -87,7 +87,7 @@ A physics-based platformer engine built from scratch to demonstrate advanced OOP
 
 ## 🎓 Education
 
-**BSc (Hons) Computer Science – 2:1** | 
+**BSc (Hons) Computer Science – 2:1**
 *[City St George’s, University of London](https://github.com/CityUniversityLondon)* | *Sep 2022 – Jun 2025*
 
 **Relevant Modules:**
