@@ -61,17 +61,17 @@ A unified mobile companion app designed for the Muslim community to locate mosqu
 * **Engineering:** Developed with React Native and Expo (SDK 54), using the Mapbox Maps SDK for turn-by-turn navigation and map clustering.
 * **Backend & Widget:** Integrates Firebase for account preferences, Google Places API for restaurant discovery, and a custom Android home screen widget to display prayer times dynamically.
 
-### 🛒 [Discount Quality Products (E-Commerce Storefront & Ingestion Pipeline)](https://github.com/YQ-Web-Studio/discount-quality-products)
+### 🛒 [Discount Quality Products (E-Commerce Storefront & Ingestion Pipeline)](https://discountproducts.co.uk)
 **Production System** | *Next.js 15, React, WooCommerce REST API, Stripe & PayPal, Python, Tkinter, WordPress (PHP), PyInstaller*
-> [💻 Storefront Repo](https://github.com/YQ-Web-Studio/discount-quality-products) | [⚙️ Importer Tool Repo](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Importer](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
+> [🔴 Live Demo](https://discountproducts.co.uk) | [💻 Storefront Repo](https://github.com/YQ-Web-Studio/discount-quality-products) | [⚙️ Importer Tool Repo](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Importer](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
 
 An integrated, production-grade e-commerce storefront and automation suite managing a catalog of 25,000+ items.
 * **Storefront:** Constructed with Next.js 15 App Router and TailwindCSS. Leverages Incremental Static Regeneration (ISR) and cache-tag invalidation to ensure lightning-fast page loading with real-time stock levels.
 * **Importer Engine:** A local desktop Python/Tkinter GUI client (packaged into a single Windows `.exe`) that streams massive eBay exports row-by-row, executes MD5-based image hash deduplication, and coordinates imports with a companion WordPress background plugin to avoid server timeouts.
 
-### 🕌 [Faizane Madina Masjid Southend Website](https://faizane-madina-masjid-southend.github.io/frontend/)
+### 🕌 [Faizane Madina Masjid Southend Website](https://www.faizanemadinasouthend.co.uk)
 **Production Project** | *React, Strapi CMS v5, Oracle Cloud (VPS), Nginx, PM2*
-> [🔴 Live Demo](https://faizane-madina-masjid-southend.github.io/frontend/) | [💻 View Code](https://github.com/Faizane-Madina-Masjid-Southend)
+> [🔴 Live Demo](https://www.faizanemadinasouthend.co.uk) | [💻 View Code](https://github.com/Faizane-Madina-Masjid-Southend)
 
 A production-ready web platform delivered for a local community mosque to broadcast prayer timetables, events, and manage donor announcements.
 * **Full-Lifecycle Engineering:** Managed the entire design, requirement elicitation, frontend/backend assembly, and production launch.
