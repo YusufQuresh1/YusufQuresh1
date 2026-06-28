@@ -2,10 +2,7 @@
 
 **Computer Science Graduate | Software Engineer | Web & Mobile Developer**
 
-I am a highly motivated Computer Science graduate from **City St George's, University of London**, passionate about building scalable solutions across the web and mobile landscape. I combine strong academic foundations in algorithms and system design with practical experience delivering production-ready software for real-world clients.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedyusufqureshi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufq2004@gmail.com)
+yusufq2004@gmail.com | 07504329521 | [linkedin.com/in/mohammedyusufqureshi](https://www.linkedin.com/in/mohammedyusufqureshi) | [yqwebstudio.com](http://www.yqwebstudio.com)
 
 ---
 
@@ -91,23 +88,29 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 
 ## 💼 Professional Experience
 
+### Founder / Lead Developer (Freelance)
+<strong>YQ Web Studio</strong> | *Mar 2026 – Present*
+* Founded a digital agency building bespoke websites for businesses using Next.js, Tailwind, and Vercel.
+* Managed end-to-end relationships with non-technical clients, including translating requirements to migrate a retailer from eBay to a custom Next.js storefront, cutting fees to boost profitability by 10%.
+* Integrated 14,000+ products via WooCommerce REST API/GraphQL and implemented technical SEO with dynamic metadata and XML sitemaps for full crawlability.
+
 ### Full-Stack Developer (Voluntary)
 <a href="https://github.com/Faizane-Madina-Masjid-Southend">
   <img src="https://github.com/Faizane-Madina-Masjid-Southend.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Faizane Madina Masjid Southend</strong>
-</a>
+</a> | *Oct 2025 – Jan 2026*
+* Led the entire development cycle of a production-ready full-stack community platform using React, Strapi CMS, and PostgreSQL, increasing digital community outreach by over 30%.
+* Deployed system on Oracle Cloud Linux environment using SSH, ensuring uptime and availability. 
+* Collaborated with non-technical stakeholders to automate admin tasks, reducing manual workload.
 
-* Delivered a complete web solution using **React** and **Strapi**.
-* Managed server administration and deployment on **Oracle Cloud**.
-
-### Junior Developer Intern
+### Junior Developer (Internship)
 <a href="https://github.com/Local-Grown-Salads">
   <img src="https://github.com/Local-Grown-Salads.png" width="30px" alt="Local Grown Salads Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Local Grown Salads</strong>
-</a>
-
-* Collaborated in an Agile team to design system architecture and data flowcharts for a new mobile application.
-* Gained exposure to **PostgreSQL**, **Firebase**, and **FastAPI** for backend development.
+</a> | *Jun 2024 – Aug 2024*
+* Worked within a 7-person Agile development team contributing to a mobile application project.
+* Produced backend system documentation and API flow diagrams for services built using Python (FastAPI) and PostgreSQL.
+* Participated in sprint planning and collaborative sessions to stay informed on project developments while communicating effectively with team members across all levels of the organisation.
 
 ---
 
