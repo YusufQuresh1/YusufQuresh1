@@ -128,4 +128,4 @@ I am a Computer Science graduate actively seeking opportunities in:
 I am eager to contribute to innovative teams and continue learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedyusufqureshi)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufq2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf@yqwebstudio.com)
