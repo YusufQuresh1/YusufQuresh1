@@ -89,28 +89,31 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 ## 💼 Professional Experience
 
 ### Founder / Lead Developer (Freelance)
-<strong>YQ Web Studio</strong> | *Mar 2026 – Present*
-* Founded a digital agency building bespoke websites for businesses using Next.js, Tailwind, and Vercel.
-* Managed end-to-end relationships with non-technical clients, including translating requirements to migrate a retailer from eBay to a custom Next.js storefront, cutting fees to boost profitability by 10%.
-* Integrated 14,000+ products via WooCommerce REST API/GraphQL and implemented technical SEO with dynamic metadata and XML sitemaps for full crawlability.
+<a href="https://github.com/YQ-Web-Studio">
+  <img src="https://github.com/YQ-Web-Studio.png" width="30px" alt="YQ Web Studio Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
+  <strong>YQ Web Studio</strong>
+</a> | *Mar 2026 – Present*
+* Engineered and deployed custom, SEO-optimized e-commerce storefronts using Next.js, TailwindCSS, and Vercel.
+* Managed server-side migrations of legacy merchant catalogs to WooCommerce/WordPress stacks, utilizing REST & GraphQL APIs to bulk-sync 14,000+ items.
+* Configured advanced caching mechanisms (Incremental Static Regeneration, tag-based cache revalidation) and automated metadata/XML sitemap creation.
 
 ### Full-Stack Developer (Voluntary)
 <a href="https://github.com/Faizane-Madina-Masjid-Southend">
   <img src="https://github.com/Faizane-Madina-Masjid-Southend.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Faizane Madina Masjid Southend</strong>
 </a> | *Oct 2025 – Jan 2026*
-* Led the entire development cycle of a production-ready full-stack community platform using React, Strapi CMS, and PostgreSQL, increasing digital community outreach by over 30%.
-* Deployed system on Oracle Cloud Linux environment using SSH, ensuring uptime and availability. 
-* Collaborated with non-technical stakeholders to automate admin tasks, reducing manual workload.
+* Built a full-stack community web app using React, Strapi CMS, and PostgreSQL.
+* Configured and administered a Linux VPS on Oracle Cloud, setting up Nginx reverse proxying, SSL/TLS certificates, and PM2 process monitoring.
+* Developed database seed scripts and backend cron jobs to automate system administration.
 
 ### Junior Developer (Internship)
 <a href="https://github.com/Local-Grown-Salads">
   <img src="https://github.com/Local-Grown-Salads.png" width="30px" alt="Local Grown Salads Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Local Grown Salads</strong>
 </a> | *Jun 2024 – Aug 2024*
-* Worked within a 7-person Agile development team contributing to a mobile application project.
-* Produced backend system documentation and API flow diagrams for services built using Python (FastAPI) and PostgreSQL.
-* Participated in sprint planning and collaborative sessions to stay informed on project developments while communicating effectively with team members across all levels of the organisation.
+* Developed features in an Agile Scrum team utilizing Git flow for collaborative mobile application updates.
+* Authored backend API schemas, system diagrams, and data flow documentation for FastAPI (Python) and PostgreSQL services.
+* Participated in code reviews, sprint planning, and task refinement sessions.
 
 ---
 
