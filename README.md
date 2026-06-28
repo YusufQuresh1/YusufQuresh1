@@ -51,6 +51,22 @@ I am a highly motivated Computer Science graduate from **City St George's, Unive
 
 ## 🚀 Featured Projects
 
+### 🛒 [Discount Quality Products (E-Commerce Storefront)](https://github.com/YQ-Web-Studio/discount-quality-products)
+**Production Project** | *Next.js 15, React, WooCommerce REST API, Stripe, TailwindCSS, WordPress*
+> [💻 View Code](https://github.com/YQ-Web-Studio/discount-quality-products)
+
+A production-grade, highly-optimized e-commerce storefront handling a catalog of 25,000+ items.
+* **Engineering:** Structured with Next.js App Router, custom middleware for session handling, and fully dynamic routing. Integrates Stripe and PayPal payment gateways with webhook-based real-time order processing.
+* **Performance:** Leverages ISR (Incremental Static Regeneration) and Next-Cache tagging to sustain high traffic while instantly updating product stock and detail changes.
+
+### ⚙️ [WooCommerce Bulk Importer (Desktop & Server Integration Engine)](https://github.com/YusufQuresh1/woocommerce-bulk-importer)
+**Production Utility** | *Python, Tkinter, WooCommerce REST & WP REST APIs, WordPress (PHP), PyInstaller*
+> [💻 View Code](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Executable](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
+
+A distributed uploader tool designed to import/synchronize massive product catalogs (25,000+ items) from complex eBay/SixBit CSV or XML exports.
+* **Distributed Architecture:** Features a local desktop control panel app (compiled to a standalone Windows `.exe` using PyInstaller) communicating via REST APIs, combined with a companion WordPress plugin for server-side background job execution.
+* **Performance & Integrity:** Streams files row-by-row (constant memory usage), features automatic column-mapping auto-detection, and runs MD5-based image hash deduplication before uploading to minimize remote server load.
+
 ### 🕌 [Faizane Madina Masjid Website](https://faizane-madina-masjid-southend.github.io/frontend/)
 **Production Project** | *React, Strapi v5, Oracle Cloud, Nginx*
 > [🔴 Live Demo](https://faizane-madina-masjid-southend.github.io/frontend/) | [💻 View Code](https://github.com/Faizane-Madina-Masjid-Southend)
