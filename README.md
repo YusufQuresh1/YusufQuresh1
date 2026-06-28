@@ -99,10 +99,8 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 * Configured advanced caching mechanisms (Incremental Static Regeneration, tag-based cache revalidation) and automated metadata/XML sitemap creation.
 
 ### Full-Stack Developer (Voluntary)
-<a href="https://github.com/YQ-Web-Studio/faizane-madina-frontend">
-  <img src="https://github.com/YQ-Web-Studio.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
-  <strong>Faizane Madina Masjid Southend</strong>
-</a> | *Oct 2025 – Jan 2026*
+<img src="https://github.com/Faizane-Madina-Masjid-Southend.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
+<strong>Faizane Madina Masjid Southend</strong> | *Oct 2025 – Jan 2026*
 
 * Built a full-stack community web app using React, Strapi CMS, and PostgreSQL.
 * Configured and administered a Linux VPS on Oracle Cloud, setting up Nginx reverse proxying, SSL/TLS certificates, and PM2 process monitoring.
