@@ -93,6 +93,7 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
   <img src="https://github.com/YQ-Web-Studio.png" width="30px" alt="YQ Web Studio Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>YQ Web Studio</strong>
 </a> | *Mar 2026 – Present*
+
 * Engineered and deployed custom, SEO-optimized e-commerce storefronts using Next.js, TailwindCSS, and Vercel.
 * Managed server-side migrations of legacy merchant catalogs to WooCommerce/WordPress stacks, utilizing REST & GraphQL APIs to bulk-sync 14,000+ items.
 * Configured advanced caching mechanisms (Incremental Static Regeneration, tag-based cache revalidation) and automated metadata/XML sitemap creation.
@@ -102,6 +103,7 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
   <img src="https://github.com/Faizane-Madina-Masjid-Southend.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Faizane Madina Masjid Southend</strong>
 </a> | *Oct 2025 – Jan 2026*
+
 * Built a full-stack community web app using React, Strapi CMS, and PostgreSQL.
 * Configured and administered a Linux VPS on Oracle Cloud, setting up Nginx reverse proxying, SSL/TLS certificates, and PM2 process monitoring.
 * Developed database seed scripts and backend cron jobs to automate system administration.
@@ -111,6 +113,7 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
   <img src="https://github.com/Local-Grown-Salads.png" width="30px" alt="Local Grown Salads Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Local Grown Salads</strong>
 </a> | *Jun 2024 – Aug 2024*
+
 * Developed features in an Agile Scrum team utilizing Git flow for collaborative mobile application updates.
 * Authored backend API schemas, system diagrams, and data flow documentation for FastAPI (Python) and PostgreSQL services.
 * Participated in code reviews, sprint planning, and task refinement sessions.
