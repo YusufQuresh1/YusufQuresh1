@@ -68,7 +68,7 @@ An integrated, production-grade e-commerce storefront and automation suite manag
 
 ### 🕌 [Faizane Madina Masjid Southend Website](https://www.faizanemadinasouthend.co.uk)
 **Production Project** | *React, Strapi CMS v5, Oracle Cloud (VPS), Nginx, PM2*
-> [🔴 Live Demo](https://www.faizanemadinasouthend.co.uk) | [💻 View Code](https://github.com/Faizane-Madina-Masjid-Southend)
+> [🔴 Live Demo](https://www.faizanemadinasouthend.co.uk) | [💻 Frontend Code](https://github.com/YQ-Web-Studio/faizane-madina-frontend) | [⚙️ Backend Code](https://github.com/YQ-Web-Studio/faizane-madina-backend)
 
 A production-ready web platform delivered for a local community mosque to broadcast prayer timetables, events, and manage donor announcements.
 * **Full-Lifecycle Engineering:** Managed the entire design, requirement elicitation, frontend/backend assembly, and production launch.
@@ -99,8 +99,8 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 * Configured advanced caching mechanisms (Incremental Static Regeneration, tag-based cache revalidation) and automated metadata/XML sitemap creation.
 
 ### Full-Stack Developer (Voluntary)
-<a href="https://github.com/Faizane-Madina-Masjid-Southend">
-  <img src="https://github.com/Faizane-Madina-Masjid-Southend.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
+<a href="https://github.com/YQ-Web-Studio/faizane-madina-frontend">
+  <img src="https://github.com/YQ-Web-Studio.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Faizane Madina Masjid Southend</strong>
 </a> | *Oct 2025 – Jan 2026*
 
