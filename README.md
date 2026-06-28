@@ -2,7 +2,7 @@
 
 **Computer Science Graduate | Software Engineer | Web & Mobile Developer**
 
-yusufq2004@gmail.com | [linkedin.com/in/mohammedyusufqureshi](https://www.linkedin.com/in/mohammedyusufqureshi) | [yqwebstudio.com](http://www.yqwebstudio.com)
+yusuf@yqwebstudio.com | [linkedin.com/in/mohammedyusufqureshi](https://www.linkedin.com/in/mohammedyusufqureshi) | [yqwebstudio.com](http://www.yqwebstudio.com)
 
 ---
 
@@ -92,7 +92,7 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 <a href="https://github.com/YQ-Web-Studio">
   <img src="https://github.com/YQ-Web-Studio.png" width="30px" alt="YQ Web Studio Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>YQ Web Studio</strong>
-</a> | *Mar 2026 – Present*
+</a> | <em>Mar 2026 – Present</em>
 
 * Engineered and deployed custom, SEO-optimized e-commerce storefronts using Next.js, TailwindCSS, and Vercel.
 * Managed server-side migrations of legacy merchant catalogs to WooCommerce/WordPress stacks, utilizing REST & GraphQL APIs to bulk-sync 14,000+ items.
@@ -100,7 +100,7 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 
 ### Full-Stack Developer (Voluntary)
 <img src="https://github.com/Faizane-Madina-Masjid-Southend.png" width="30px" alt="Faizane Madina Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
-<strong>Faizane Madina Masjid Southend</strong> | *Oct 2025 – Jan 2026*
+<strong>Faizane Madina Masjid Southend</strong> | <em>Oct 2025 – Jan 2026</em>
 
 * Built a full-stack community web app using React, Strapi CMS, and PostgreSQL.
 * Configured and administered a Linux VPS on Oracle Cloud, setting up Nginx reverse proxying, SSL/TLS certificates, and PM2 process monitoring.
@@ -110,7 +110,7 @@ Programming in Java/C++, Web Development, Object-Oriented Analysis & Design, Dat
 <a href="https://github.com/Local-Grown-Salads">
   <img src="https://github.com/Local-Grown-Salads.png" width="30px" alt="Local Grown Salads Logo" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;" />
   <strong>Local Grown Salads</strong>
-</a> | *Jun 2024 – Aug 2024*
+</a> | <em>Jun 2024 – Aug 2024</em>
 
 * Developed features in an Agile Scrum team utilizing Git flow for collaborative mobile application updates.
 * Authored backend API schemas, system diagrams, and data flow documentation for FastAPI (Python) and PostgreSQL services.
