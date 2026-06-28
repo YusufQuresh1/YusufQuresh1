@@ -61,9 +61,9 @@ A unified mobile companion app designed for the Muslim community to locate mosqu
 * **Engineering:** Developed with React Native and Expo (SDK 54), using the Mapbox Maps SDK for turn-by-turn navigation and map clustering.
 * **Backend & Widget:** Integrates Firebase for account preferences, Google Places API for restaurant discovery, and a custom Android home screen widget to display prayer times dynamically.
 
-### 🛒 [Discount Quality Products (E-Commerce Storefront & Ingestion Pipeline)](https://discountproducts.co.uk)
+### 🛒 [Discount Quality Products (E-Commerce Storefront & Ingestion Pipeline)](https://www.discountproducts.co.uk)
 **Production System** | *Next.js 15, React, WooCommerce REST API, Stripe & PayPal, Python, Tkinter, WordPress (PHP), PyInstaller*
-> [🔴 Live Demo](https://discountproducts.co.uk) | [💻 Storefront Repo](https://github.com/YQ-Web-Studio/discount-quality-products) | [⚙️ Importer Tool Repo](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Importer](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
+> [🔴 Live Demo](https://www.discountproducts.co.uk) | [💻 Storefront Repo](https://github.com/YQ-Web-Studio/discount-quality-products) | [⚙️ Importer Tool Repo](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Importer](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
 
 An integrated, production-grade e-commerce storefront and automation suite managing a catalog of 25,000+ items.
 * **Storefront:** Constructed with Next.js 15 App Router and TailwindCSS. Leverages Incremental Static Regeneration (ISR) and cache-tag invalidation to ensure lightning-fast page loading with real-time stock levels.
