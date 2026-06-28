@@ -12,20 +12,24 @@ I am a highly motivated Computer Science graduate from **City St George's, Unive
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### Web & Mobile Development
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,57 +51,31 @@ I am a highly motivated Computer Science graduate from **City St George's, Unive
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
-### 🛒 [Discount Quality Products (E-Commerce Storefront)](https://github.com/YQ-Web-Studio/discount-quality-products)
-**Production Project** | *Next.js 15, React, WooCommerce REST API, Stripe, TailwindCSS, WordPress*
-> [💻 View Code](https://github.com/YQ-Web-Studio/discount-quality-products)
+### 📱 [Muslim Atlas (Mobile App)](https://github.com/Muslim-Atlas/app)
+**Production Mobile App** | *React Native (Expo SDK 54), Mapbox Maps SDK, Firebase (Firestore & Auth), Google Places API, Adhan JS*
+> [💻 View Code](https://github.com/Muslim-Atlas/app) | [🤖 Download APK](https://github.com/Muslim-Atlas/app/releases)
 
-A production-grade, highly-optimized e-commerce storefront handling a catalog of 25,000+ items.
-* **Engineering:** Structured with Next.js App Router, custom middleware for session handling, and fully dynamic routing. Integrates Stripe and PayPal payment gateways with webhook-based real-time order processing.
-* **Performance:** Leverages ISR (Incremental Static Regeneration) and Next-Cache tagging to sustain high traffic while instantly updating product stock and detail changes.
+A unified mobile companion app designed for the Muslim community to locate mosques, find halal dining, and access highly-customizable offline prayer times.
+* **Engineering:** Developed with React Native and Expo (SDK 54), using the Mapbox Maps SDK for turn-by-turn navigation and map clustering.
+* **Backend & Widget:** Integrates Firebase for account preferences, Google Places API for restaurant discovery, and a custom Android home screen widget to display prayer times dynamically.
 
-### ⚙️ [WooCommerce Bulk Importer (Desktop & Server Integration Engine)](https://github.com/YusufQuresh1/woocommerce-bulk-importer)
-**Production Utility** | *Python, Tkinter, WooCommerce REST & WP REST APIs, WordPress (PHP), PyInstaller*
-> [💻 View Code](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Executable](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
+### 🛒 [Discount Quality Products (E-Commerce Storefront & Ingestion Pipeline)](https://github.com/YQ-Web-Studio/discount-quality-products)
+**Production System** | *Next.js 15, React, WooCommerce REST API, Stripe & PayPal, Python, Tkinter, WordPress (PHP), PyInstaller*
+> [💻 Storefront Repo](https://github.com/YQ-Web-Studio/discount-quality-products) | [⚙️ Importer Tool Repo](https://github.com/YusufQuresh1/woocommerce-bulk-importer) | [🤖 Download Importer](https://github.com/YusufQuresh1/woocommerce-bulk-importer/releases)
 
-A distributed uploader tool designed to import/synchronize massive product catalogs (25,000+ items) from complex eBay/SixBit CSV or XML exports.
-* **Distributed Architecture:** Features a local desktop control panel app (compiled to a standalone Windows `.exe` using PyInstaller) communicating via REST APIs, combined with a companion WordPress plugin for server-side background job execution.
-* **Performance & Integrity:** Streams files row-by-row (constant memory usage), features automatic column-mapping auto-detection, and runs MD5-based image hash deduplication before uploading to minimize remote server load.
+An integrated, production-grade e-commerce storefront and automation suite managing a catalog of 25,000+ items.
+* **Storefront:** Constructed with Next.js 15 App Router and TailwindCSS. Leverages Incremental Static Regeneration (ISR) and cache-tag invalidation to ensure lightning-fast page loading with real-time stock levels.
+* **Importer Engine:** A local desktop Python/Tkinter GUI client (packaged into a single Windows `.exe`) that streams massive eBay exports row-by-row, executes MD5-based image hash deduplication, and coordinates imports with a companion WordPress background plugin to avoid server timeouts.
 
-### 🕌 [Faizane Madina Masjid Website](https://faizane-madina-masjid-southend.github.io/frontend/)
-**Production Project** | *React, Strapi v5, Oracle Cloud, Nginx*
+### 🕌 [Faizane Madina Masjid Southend Website](https://faizane-madina-masjid-southend.github.io/frontend/)
+**Production Project** | *React, Strapi CMS v5, Oracle Cloud (VPS), Nginx, PM2*
 > [🔴 Live Demo](https://faizane-madina-masjid-southend.github.io/frontend/) | [💻 View Code](https://github.com/Faizane-Madina-Masjid-Southend)
 
-A production-ready community platform delivered for a local client. I managed the entire lifecycle from requirements gathering to deployment on a VPS.
-* **Impact:** successfully deployed a scalable digital platform for a community organisation.
-* **Engineering:** Configured a Headless CMS (Strapi) for easy client content management and set up a CI/CD pipeline using Oracle Cloud, Nginx, and PM2.
-
-### 📱 [MyMosque Flutter App](https://github.com/YusufQuresh1/MyMosque-Flutter-App)
-**Final Year Dissertation** | *Dart, Flutter, Firebase, Google Maps API*
-> [🤖 Download APK](https://github.com/YusufQuresh1/MyMosque-Flutter-App/releases) | [💻 View Code](https://github.com/YusufQuresh1/MyMosque-Flutter-App)
-
-A cross-platform mobile application designed to connect users with their local mosques.
-* **Features:** Real-time data synchronisation, push notifications, and location-based discovery using Google Maps.
-* **Engineering:** Implemented complex state management and geolocation services within the Flutter ecosystem.
-* **Deployment:** Compiled and packaged functional APK for Android devices.
-
-### 🍽️ [Restaurant Booking System](https://github.com/YusufQuresh1/Restaurant-Booking-Website)
-**Full-Stack Web App** | *PHP, MySQL, Twig, AJAX*
-> [💻 View Code](https://github.com/YusufQuresh1/Restaurant-Booking-Website)
-
-A robust reservation platform featuring a customer booking portal and an admin dashboard.
-* **Features:** Handles secure bookings with real-time availability checks via AJAX.
-* **Engineering:** Built with a focus on relational database design and secure PHP backend logic.
-
-### 🎮 [Java 2D Platformer Game (Physics Engine)](https://github.com/YusufQuresh1/Java-2D-Platformer-Game)
-**Game Development** | *Java, JBox2D, MVC Pattern*
-> [💻 View Code](https://github.com/YusufQuresh1/Java-2D-Platformer-Game)
-
-A physics-based platformer engine built from scratch to demonstrate advanced OOP concepts.
-* **Engineering:** Implemented custom physics simulations (gravity, collision) and strictly adhered to the Model-View-Controller architecture.
+A production-ready web platform delivered for a local community mosque to broadcast prayer timetables, events, and manage donor announcements.
+* **Full-Lifecycle Engineering:** Managed the entire design, requirement elicitation, frontend/backend assembly, and production launch.
+* **Deployment:** Hosted on an Oracle Cloud VPS with secure Nginx reverse proxying, SSL setup, and PM2 process management.
 
 ---
 
