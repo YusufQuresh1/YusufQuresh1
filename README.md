@@ -2,7 +2,7 @@
 
 **Computer Science Graduate | Software Engineer | Web & Mobile Developer**
 
-yusufq2004@gmail.com | 07504329521 | [linkedin.com/in/mohammedyusufqureshi](https://www.linkedin.com/in/mohammedyusufqureshi) | [yqwebstudio.com](http://www.yqwebstudio.com)
+yusufq2004@gmail.com | [linkedin.com/in/mohammedyusufqureshi](https://www.linkedin.com/in/mohammedyusufqureshi) | [yqwebstudio.com](http://www.yqwebstudio.com)
 
 ---
 
